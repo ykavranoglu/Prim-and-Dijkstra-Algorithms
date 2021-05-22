@@ -3,7 +3,7 @@ Two C++ programs, one finds the minimum spanning tree of a graph using Prim's Al
 
 These two programs are inside the same repository because they share some codes and classes.
 
-Prim's Algorithm:
+## Prim's Algorithm:
 
 "In computer science, Prim's (also known as Jarník's) algorithm is a greedy algorithm that finds a minimum spanning tree for a weighted undirected graph. This means it finds a subset of the edges that forms a tree that includes every vertex, where the total weight of all the edges in the tree is minimized. The algorithm operates by building this tree one vertex at a time, from an arbitrary starting vertex, at each step adding the cheapest possible connection from the tree to another vertex."
 Wikipedia contributors. (2021, April 27). Prim's algorithm. In Wikipedia, The Free Encyclopedia. Retrieved 17:02, May 22, 2021, from https://en.wikipedia.org/wiki/Prim%27s_algorithm
@@ -30,7 +30,7 @@ These conditions are satisfied:
 The program takes the file name of the input txt after the execution with std::cin function.
 
 
-Dijkstra's Algorithm:
+## Dijkstra's Algorithm:
 
 Dijkstra's algorithm is an algorithm for finding the shortest paths between nodes in a graph, which may represent, for example, road networks. It was conceived by computer scientist Edsger W. Dijkstra in 1956 and published three years later.
 Wikipedia contributors. (2021, May 6). Dijkstra's algorithm. In Wikipedia, The Free Encyclopedia. Retrieved 17:21, May 22, 2021, from https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
